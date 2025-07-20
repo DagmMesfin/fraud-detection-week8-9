@@ -1,8 +1,3 @@
-Thanks for the clarification! Here's a polished, **GitHub-style `README.md`** file for your fraud detection project. It's written to be clean, professional, and GitHub-friendly with markdown formatting, badges (optional), and structure that meets 10 Academy expectations.
-
----
-
-```markdown
 # 🛡️ Fraud Detection: E-commerce & Banking Transactions  
 _A 10 Academy Week 8&9 Challenge Project_  
 
