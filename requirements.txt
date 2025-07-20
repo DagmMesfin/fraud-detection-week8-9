@@ -3,10 +3,9 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+xgboost
+lightgbm
+imblearn
+ipaddress
+shap
 ipykernel
-mlflow
-pytest
-fastapi
-uvicorn
-pydantic
-flake8
